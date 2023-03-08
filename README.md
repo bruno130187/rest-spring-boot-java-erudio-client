@@ -4,6 +4,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Este projeto só engloba os endpoints de Books do Backend e vou implementar a de Persons futuramente.
+
 ## Segue o link para baixar o VScode:
 
 [https://code.visualstudio.com/download]
