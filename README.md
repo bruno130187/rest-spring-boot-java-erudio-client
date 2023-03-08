@@ -4,6 +4,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Segue o link para baixar o VScode:
+
+[https://code.visualstudio.com/download]
+
+## Você precisará instalar o Node.js, a versão que utilizei no projeto foi a v18.14.2 , segue o link:
+
+[https://nodejs.org/dist/v18.14.2/node-v18.14.2-x64.msi]
+
+Para saber se instalou rode o comando abaixo que irá mostrar a versão instalada:
+
+### `node -v`
+
 ## Após abrir o projeto com o VSCode basta rodar o comando no terminal
 
 ### `npm start`
