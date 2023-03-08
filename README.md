@@ -1,4 +1,4 @@
-# Projeto Client em React.js (view) para o projeto Server em Spring-Boot, segue o link abaixo do projeto do server (backend)
+# Projeto Client em React.js (Frontend) para o projeto Server em Spring-Boot, segue o link abaixo do projeto do server (backend)
 
 [https://github.com/bruno130187/rest-spring-boot-java-erudio-server]
 
